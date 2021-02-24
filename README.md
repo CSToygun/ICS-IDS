@@ -6,4 +6,4 @@ Within the scope of this project, an intrusion detection system (IDS) will be de
 
 As a result of this project, it will be ensured that the security of critical infrastructures, which they prioritize in their cyber security strategies for countries, economic contributions to the country will increase due to its domestic and national, the country's power in the global market will increase with the export of the product, and fast and effective detection of attacks will be ensured.
 
-deneme123
+deneme12321312
